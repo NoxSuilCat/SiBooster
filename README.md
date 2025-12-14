@@ -2,8 +2,4 @@
 Simple Booster.
 
 # How to use?
-Easy!
-
-1.``
-
-2.`
+<a herf=""></a>
