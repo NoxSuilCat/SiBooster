@@ -5,6 +5,6 @@ Simplely Shell Booster
 
 2.open Your localadb(ladb)apps.
 
-3.Entering `sh /sdcard/boost.sh`
+3.Entering this `sh /sdcard/Download/boost.sh`
 
-4.done!
+4.Done!
