@@ -1,5 +1,5 @@
 # NoxBooster
-very Simplely Shell Booster
+very Simplely Shell App&Game Booster
 # How to use this?
 1.Get this [boost.sh](https://github.com/NoxSuilCat/NoxBooster/releases/tag/0.1v).
 
