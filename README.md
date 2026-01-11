@@ -1,8 +1,7 @@
 # SiBooster(old NoxBooster)
 very Simplely Shell App&Game Booster
 # How to use this?
-1.Get this [boost.sh](https://github.com/NoxSuilCat/NoxBooster/releases/tag/0
-/260111Relsed).
+1.Get this [boost.sh](https://github.com/NoxSuilCat/NoxBooster/releases/tag/0).
 
 2.open Your localadb(same ladb)apps.
 
